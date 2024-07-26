@@ -31,3 +31,25 @@ Para este repositorio tambien se ha desarrollado otro juego, un ejemplo de fuit 
 
 
 Este lo hemos llamado FruitClickGame
+
+De la misma manera se debe descargar el archivo y dentro de el encontraremos la clase desde donde podemos ejecutar el juego:
+
+![image](https://github.com/user-attachments/assets/2ca2ab99-79cd-44ab-8a15-e803d1a1fedb)
+
+
+Una vez ahi se nos presentara el siguiente panel:
+
+![image](https://github.com/user-attachments/assets/dc3a117e-74c8-416f-8644-16b7a8fe706f)
+
+
+Para este juego se debe hacer click sobre cada fruta para poder ir ganando puntos, en la parte superior podemos observar un puntaje y el tiempo que se ha mantenido vivo:
+
+![image](https://github.com/user-attachments/assets/6018f1a5-0c4c-4cb1-97d0-035dc7476f36)
+
+
+El juego termina cuando tu puntaje llega a cero, esto cada vez que una fruta no es destruida, de inmediato el panel lanza un mensaje:
+
+![image](https://github.com/user-attachments/assets/1ad3c98c-dadf-4905-beb0-e8c9c98506ad)
+
+
+
