@@ -38,7 +38,7 @@ En la parte superior podemos visualizar el puntaje
 
 ---
 
-# JUEGO DE FUIT NINJA
+# JUEGO DE FRUIT NINJA
 
 Para este repositorio tambien:
 ---
