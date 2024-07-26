@@ -2,9 +2,11 @@
 ---
 
 **Integrantes:**
-> Sebastian Narváez
-> Benito Minga
-> Roberto Lliguin
+- **Sebastian Narváez**
+- **Benito Minga**
+- **Roberto Lliguin**
+
+---
 
 ### Repositorio:
 - Donde se encietra el archivo ejecutable para el juego de la serpeinte.
@@ -33,14 +35,15 @@
 
 
 En la parte superior podemos visualizar el puntaje
+
 ---
 
 # JUEGO DE FUIT NINJA
 
 Para este repositorio tambien:
+---
 - Se desarrollado otro juego, un ejemplo de fuit ninja, a continuacion se presenta el diagrama en que se basa en el siguinete diagrama:  
 
----
 ![image](https://github.com/user-attachments/assets/a0fd4ba3-7c27-4507-b4bb-0064ff3d64bf)
 
 - Este lo hemos llamado **FruitClickGame**
@@ -56,7 +59,7 @@ Para este repositorio tambien:
 ![image](https://github.com/user-attachments/assets/dc3a117e-74c8-416f-8644-16b7a8fe706f)
 
 
-Para este juego se debe hacer click sobre cada fruta para poder ir ganando puntos, en la parte superior podemos observar un puntaje y el tiempo que se ha mantenido vivo:
+- Para este juego se debe hacer click sobre cada fruta para poder ir ganando puntos, en la parte superior podemos observar un puntaje y el tiempo que se ha mantenido vivo:
 
 ![image](https://github.com/user-attachments/assets/6018f1a5-0c4c-4cb1-97d0-035dc7476f36)
 
