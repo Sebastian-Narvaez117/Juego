@@ -22,3 +22,9 @@ Con la ayuda de las flechas se puede cambiar la direccion de la serpiente, algo 
 
 En la parte superior podemos visualizar el puntaje
 
+
+
+Para este repositorio tambien se ha desarrollado otro juego, un ejemplo de fuit ninja, a continuacion se presenta el diagrama en que se basa en el siguinete diagrama:  
+
+
+![image](https://github.com/user-attachments/assets/a0fd4ba3-7c27-4507-b4bb-0064ff3d64bf)
