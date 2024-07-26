@@ -9,7 +9,7 @@
 ---
 
 ### Repositorio:
-- Donde se encietra el archivo ejecutable para el juego de la serpeinte.
+- Donde se encietra el archivo ejecutable para el juego de la <abbr title="Hyper Text Markup Language">**Serpiente**</abbr>
 
 ---
 - El juego se desarrollara en base al siguiente diagrama (version1):
