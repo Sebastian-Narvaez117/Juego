@@ -28,3 +28,6 @@ Para este repositorio tambien se ha desarrollado otro juego, un ejemplo de fuit 
 
 
 ![image](https://github.com/user-attachments/assets/a0fd4ba3-7c27-4507-b4bb-0064ff3d64bf)
+
+
+Este lo hemos llamado FruitClickGame
