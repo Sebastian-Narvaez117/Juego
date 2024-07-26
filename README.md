@@ -7,3 +7,16 @@ El juego se desarrollara en base al siguiente diagrama:
 
 Version actualiazada del diagrama
 ![Diagrama](https://github.com/user-attachments/assets/0ad605d9-f9c6-4bca-b2f6-8ce6d4ef60a5)
+
+Para ejecutar el juego debe descomprimir el archivo con el respectivo nombre,
+![image](https://github.com/user-attachments/assets/fcdba9b0-aa19-40b9-aead-86b9171abc69)
+Se dirige a la clase Juego Serpiente y lo ejecuta, en ese instante este comenzara:
+![image](https://github.com/user-attachments/assets/a86de08e-3d74-4b51-b695-123e9b796721)
+
+Con la ayuda de las flechas se puede cambiar la direccion de la serpiente, algo que debemos reclacar es que cada vez que la serpiente coma, esta aumentara su tamaño y a su vez la velocidad aumentara, el juego termina cuando chocas con el mismo cuerpo de la serpiente:
+
+![image](https://github.com/user-attachments/assets/72f9a3f4-3ca0-469c-b5ee-12b452063a24)
+
+
+En la parte superior podemos visualizar el puntaje
+
