@@ -1,5 +1,5 @@
 # Juego
-Repositorio donde se sube el archivo ejecutable para el juego de la serpeinte
+Repositorio donde se sube el archivo ejecutable para el juego de la serpiente
 
 El juego se desarrollara en base al siguiente diagrama:
 
