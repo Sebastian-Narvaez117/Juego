@@ -1,5 +1,5 @@
 # Juego
-Repositorio donde se sube el archivo ejecutable para el juego de la serpiente
+Repositorio donde se sube el archivo ejecutable para el juego de la serpeinte
 
 El juego se desarrollara en base al siguiente diagrama:
 
@@ -21,4 +21,28 @@ Con la ayuda de las flechas se puede cambiar la direccion de la serpiente, algo 
 
 
 En la parte superior podemos visualizar el puntaje
+
+
+
+Para este repositorio tambien se ha desarrollado otro juego, un ejemplo de fuit ninja, a continuacion se presenta el diagrama en que se basa en el siguinete diagrama:  
+
+
+![image](https://github.com/user-attachments/assets/a0fd4ba3-7c27-4507-b4bb-0064ff3d64bf)
+
+
+Este lo hemos llamado FruitClickGame
+
+De la misma manera se debe descargar el archivo y dentro de el encontraremos la clase desde donde podemos ejecutar el juego:
+
+![image](https://github.com/user-attachments/assets/2ca2ab99-79cd-44ab-8a15-e803d1a1fedb)
+
+
+Una vez ahi se nos presentara el siguiente panel:
+
+![image](https://github.com/user-attachments/assets/dc3a117e-74c8-416f-8644-16b7a8fe706f)
+
+
+Para este juego se debe hacer click sobre cada fruta para poder ir ganando puntos, en la parte superior podemos observar un puntaje y el tiempo que se ha mantenido vivo:
+
+![image](https://github.com/user-attachments/assets/6018f1a5-0c4c-4cb1-97d0-035dc7476f36)
 
