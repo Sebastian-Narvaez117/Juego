@@ -5,6 +5,7 @@
 - **Sebastian Narváez**
 - **Benito Minga**
 - **Roberto Lliguin**
+- **Dilan Chamba**
 
 ---
 
