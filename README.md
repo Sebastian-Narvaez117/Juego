@@ -22,24 +22,28 @@ Estructura del Proyecto
 
 El proyecto se compone de las siguientes clases:
 
-    -JuegoXD: La clase principal que controla la lógica del juego, la interfaz de usuario(los colores que aparecen) y el temporizador(el tiempo, depende de la elecion del usario).
+    -JuegoXD: La clase principal que controla la lógica del juego, la interfaz de usuario(los colores que aparecen) 
+    y el temporizador(el tiempo, depende de la elecion del usario).
     -ColorPanel: Un panel que muestra un color y permite verificar coincidencias.
     -GameTimer: Un temporizador que cuenta el tiempo restante del juego.
 
 Cómo Funciona
+
     -Inicio del Juego:
         -Al iniciar el juego, el usuario selecciona la dificultad y el tiempo de juego.
         -La interfaz muestra dos paneles de colores y un temporizador.
     -Juego:
         -El jugador debe presionar la tecla ESPACIO cuando los colores coincidan.
-        -El puntaje aumenta si los colores coinciden y disminuye si no lo hacen, especialmente en niveles de dificultad más alta.
+        -El puntaje aumenta si los colores coinciden y disminuye si no lo hacen, especialmente en niveles de dificultad
+        más alta.
     -Niveles de Dificultad:
         -Fácil: Muestra los colores sin efectos adicionales.
         -Normal: Añade una barra de distracción que cambia de color.
         -Difícil: Aumenta la dificultad reduciendo el tiempo para encontrar coincidencias.
         -Extremo: Incluye un fondo que parpadea y un contador de tiempo parpadeante.
     -Fin del Juego:
-        -Al finalizar el tiempo, se muestra un mensaje con las estadísticas del juego (aciertos, fallos, puntos negativos) y se ofrecen opciones para reiniciar o salir.
+        -Al finalizar el tiempo, se muestra un mensaje con las estadísticas del juego (aciertos, fallos, puntos negativos)
+        y se ofrecen opciones para reiniciar o salir.
 
 
 - Para ejecutar el juego debe descomprimir el archivo con el respectivo nombre, como se puede observar en la imagen:
