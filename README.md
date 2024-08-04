@@ -12,7 +12,8 @@
 ### Repositorio:
 
 ---
-### JuegoXD:![imagen](https://github.com/user-attachments/assets/f9b5a557-9b8c-415f-ad1f-93d3b896e304)
+### JuegoXD:
+![imagen](https://github.com/user-attachments/assets/f9b5a557-9b8c-415f-ad1f-93d3b896e304)
 
 Descripción
 
