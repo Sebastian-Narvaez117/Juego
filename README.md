@@ -10,6 +10,48 @@
 ---
 
 ### Repositorio:
+
+---
+### JuegoXD:
+![imagen](https://github.com/user-attachments/assets/0e0c843e-667e-462b-b4c4-74f1de636975)
+
+Descripción
+
+JuegoXD es un juego de coincidencia de colores con varios niveles de dificultad. Los jugadores deben encontrar dos paneles de colores coincidentes en un tiempo limitado. Dependiendo del nivel de dificultad, el juego puede incluir distracciones visuales y efectos de parpadeo en el fondo.
+Estructura del Proyecto
+
+El proyecto se compone de las siguientes clases:
+
+    JuegoXD: La clase principal que controla la lógica del juego, la interfaz de usuario y el temporizador.
+    ColorPanel: Un panel que muestra un color y permite verificar coincidencias.
+    GameTimer: Un temporizador que cuenta el tiempo restante del juego.
+
+Cómo Funciona
+
+    Inicio del Juego:
+        Al iniciar el juego, el usuario selecciona la dificultad y el tiempo de juego.
+        La interfaz muestra dos paneles de colores y un temporizador.
+
+    Juego:
+        El jugador debe presionar la tecla ESPACIO cuando los colores coincidan.
+        El puntaje aumenta si los colores coinciden y disminuye si no lo hacen, especialmente en niveles de dificultad más alta.
+
+    Niveles de Dificultad:
+        Fácil: Muestra los colores sin efectos adicionales.
+        Normal: Añade una barra de distracción que cambia de color.
+        Difícil: Aumenta la dificultad reduciendo el tiempo para encontrar coincidencias.
+        Extremo: Incluye un fondo que parpadea y un contador de tiempo parpadeante.
+
+    Fin del Juego:
+        Al finalizar el tiempo, se muestra un mensaje con las estadísticas del juego (aciertos, fallos, puntos negativos) y se ofrecen opciones para reiniciar o salir.
+
+
+
+
+
+---
+---
+### Juego serpiente:
 - Donde se encietra el archivo ejecutable para el juego de la <abbr title="Hyper Text Markup Language">**Serpiente**:</abbr>
 
 ---
