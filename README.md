@@ -98,6 +98,8 @@ Encuentra dos paneles de colores que coincidan en el tiempo limitado.
 
 ### Controles
 - **Tecla ESPACIO**: Selecciona el color cuando ambos paneles coincidan..
+![imagen](https://github.com/user-attachments/assets/cfa47980-9ac7-4afd-b265-7edc1028e924)
+
 
 ---
 ### Juego serpiente:
