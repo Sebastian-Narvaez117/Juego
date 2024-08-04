@@ -21,6 +21,7 @@ JuegoXD es un juego de coincidencia de colores con varios niveles de dificultad.
 Estructura del Proyecto
 
 El proyecto se compone de las siguientes clases:
+
     -JuegoXD: La clase principal que controla la lógica del juego, la interfaz de usuario(los colores que aparecen) y el temporizador(el tiempo, depende de la elecion del usario).
     -ColorPanel: Un panel que muestra un color y permite verificar coincidencias.
     -GameTimer: Un temporizador que cuenta el tiempo restante del juego.
