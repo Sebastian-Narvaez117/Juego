@@ -44,7 +44,8 @@ Para este repositorio tambien:
 ---
 - Se desarrollado otro juego, un ejemplo de fuit ninja, a continuacion se presenta el diagrama en que se basa en el siguinete diagrama:  
 
-![image](https://github.com/user-attachments/assets/a0fd4ba3-7c27-4507-b4bb-0064ff3d64bf)
+![image](https://github.com/user-attachments/assets/75a772e9-5639-4a24-b043-5f25956f6756)
+
 
 - Este lo hemos llamado **FruitClickGame**
 ---
