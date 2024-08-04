@@ -46,10 +46,50 @@ Cómo Funciona
         Al finalizar el tiempo, se muestra un mensaje con las estadísticas del juego (aciertos, fallos, puntos negativos) y se ofrecen opciones para reiniciar o salir.
 
 
+- Para ejecutar el juego debe descomprimir el archivo con el respectivo nombre, como se puede observar en la imagen:
+![imagen](https://github.com/user-attachments/assets/43c7eae4-1f8f-476d-87c2-fb34d10130c2)
+- Se dirige a la clase JuegoXD y lo ejecuta, en ese instante este comenzara:
+![imagen](https://github.com/user-attachments/assets/e73421a3-4165-485d-8372-3bc7fe9a02f5)
+
+## Cómo Jugar
+
+### Objetivo
+Encuentra dos paneles de colores que coincidan en el tiempo limitado.
+
+### Reglas
+1. **Inicio**:
+   - Selecciona la dificultad y el tiempo de juego.
+![imagen](https://github.com/user-attachments/assets/45407766-91b2-4717-bc0c-31f9abf2a22d)
+![imagen](https://github.com/user-attachments/assets/b40497f1-3d33-47c9-b1ed-d50ea244c7ad)
 
 
+2. **Juego**:
+   - Presiona **ESPACIO** cuando ambos paneles de colores sean iguales para sumar puntos.
+   - Si no coinciden, tu puntaje puede disminuir, especialmente en niveles más difíciles.
+![imagen](https://github.com/user-attachments/assets/1a3bd31f-0e6c-4273-a9b2-adbcb0919e1c)
 
----
+
+3. **Temporizador**:
+   - Muestra el tiempo restante para encontrar coincidencias.
+![imagen](https://github.com/user-attachments/assets/038d9bae-1aad-4b90-a6ef-5e2495be4104)
+
+
+4. **Niveles de Dificultad**:
+   - **Fácil**: Sin distracciones adicionales.
+   - **Normal**: Barra de distracción en la parte inferior.
+   - **Difícil**: Menos tiempo y posibles penalizaciones.
+   - **Extremo**: Fondo parpadeante y contador parpadeante.
+![imagen](https://github.com/user-attachments/assets/45407766-91b2-4717-bc0c-31f9abf2a22d)
+
+5. **Final del Juego**:
+   - Al finalizar, se muestran estadísticas: aciertos, fallos, puntos negativos y puntaje final.
+   - Opciones para reiniciar o salir.
+![imagen](https://github.com/user-attachments/assets/ae805f4f-c154-4cc2-a572-a3970598f239)
+   
+
+### Controles
+- **Tecla ESPACIO**: Selecciona el color cuando ambos paneles coincidan..
+
 ---
 ### Juego serpiente:
 - Donde se encietra el archivo ejecutable para el juego de la <abbr title="Hyper Text Markup Language">**Serpiente**:</abbr>
