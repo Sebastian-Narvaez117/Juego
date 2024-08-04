@@ -53,11 +53,6 @@ Cómo Funciona
 ---
 ### Juego serpiente:
 - Donde se encietra el archivo ejecutable para el juego de la <abbr title="Hyper Text Markup Language">**Serpiente**:</abbr>
-
----
-
-
----
 - Version actualiazada del diagrama:
   
 ![image](https://github.com/user-attachments/assets/f10e2329-e0b4-43c2-8bc3-7625f444a6e1)
